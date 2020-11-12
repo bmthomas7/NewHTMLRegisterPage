@@ -1,0 +1,51 @@
+body {
+    background-color: #3a6ebd96;
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 15px;
+    text-align: right;
+    margin-bottom: 100px;
+}
+
+.nav-link {
+    background-color: blue;
+    color: white;
+    padding: .5rem;
+     border-radius: 10px;
+}
+
+form {
+   width: 250px;
+   margin: auto;
+   padding: 30px 30px;
+   background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    width: 200px;
+}
+
+
+
+#inputDiv {
+    text-align: center;
+}
+
+button {
+    background-color: lightblue;
+    width: 225px;
+    color: white;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+img {
+    border: 1px;
+    margin: 2px;
+}
